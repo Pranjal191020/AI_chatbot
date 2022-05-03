@@ -1,1 +1,1 @@
-# AI_chatbot
+# Simple chatbot in Python(using NLTK)
